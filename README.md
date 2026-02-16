@@ -9,7 +9,7 @@ A production-grade backend system that groups airport passengers into shared cab
 | Layer            | Technology                                   |
 | ---------------- | -------------------------------------------- |
 | Language         | Python 3.9+                                  |
-| API Framework    | FastAPI (async, auto-generated OpenAPI docs)  |
+| API Framework    | FastAPI (async)  |
 | ORM              | SQLAlchemy 2.0 (async) + GeoAlchemy2         |
 | Database         | PostgreSQL 16 + PostGIS 3.4                  |
 | Cache / Locks    | Redis 7                                      |
